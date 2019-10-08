@@ -5,25 +5,25 @@
 name=French Locator Filter
 description=This is a plugin which adds a Locator Filter (Geocoder) based on the french API <a href="https://geo.api.gouv.fr/adresse">geo.api.gouv.fr/adresse</a> to QGIS
 
-description[fr]=Extension activant la recherche d'adresse dans la barre de recherche universelle, basée sur l'API <a href="https://geo.api.gouv.fr/adresse">geo.api.gouv.fr/adresse</a>
+description[fr]=Extension activant la recherche d'adresse dans la barre de recherche universelle, basee sur l'API <a href="https://geo.api.gouv.fr/adresse">geo.api.gouv.fr/adresse</a>
 
 about=The French geo.api is an open Geocoder service provided by French Government.
     A Locator Filter implements the fetching of data from internal or external sources.
     This plugin is forked from the work of Richard Duivenvoorde. Kudos Richard
     Read more: <a href="http://www.qgis.nl/2018/05/16/english-coding-a-qgslocator-plugin/?lang=en">http://www.qgis.nl/2018/05/16/english-coding-a-qgslocator-plugin</a>
 
-about[fr]=L'API du gouvernement français est un service de géocodage gratuit et ouvert basé sur la base adresse nationale. Ce plugin ajoute un filtre de recherche sur ce service dans la barre de recherche universelle. 
-Financement par les services de la gendarmerie Nationale. Ce plugin est basé sur le travail de Richard Duivenvoorde, merci Richard! En savoir plus sur ce plugin <a href="http://www.qgis.nl/2018/05/16/english-coding-a-qgslocator-plugin/?lang=en">http://www.qgis.nl/2018/05/16/english-coding-a-qgslocator-plugin</a>
+about[fr]=L'API du gouvernement français est un service de geocodage gratuit et ouvert base sur la base adresse nationale. Ce plugin ajoute un filtre de recherche sur ce service dans la barre de recherche universelle. 
+Financement par les services de la gendarmerie Nationale. Ce plugin est base sur le travail de Richard Duivenvoorde, merci Richard! En savoir plus sur ce plugin <a href="http://www.qgis.nl/2018/05/16/english-coding-a-qgslocator-plugin/?lang=en">http://www.qgis.nl/2018/05/16/english-coding-a-qgslocator-plugin</a>
 
 version=0.1
 
 qgisMinimumVersion=3.0 
-author=Régis Haubourg - OSLANDIA, Richard Duivenvoorde, Zuidt
+author=Regis Haubourg - OSLANDIA, Richard Duivenvoorde, Zuidt
 email=regis.haubourg@oslandia.com
 
 # Tags are comma separated with spaces allowed
 tags=geocoder, locator, filter, addok, France, french
-tags[fr]=géocodeur, recherche, adresse, France, ADDOK, Etalab, BAN, BANO
+tags[fr]=geocodeur, recherche, adresse, France, ADDOK, Etalab, BAN, BANO
 
 tracker=https://github.com/Oslandia/french_geocoder_plugin/issues
 homepage=https://github.com/Oslandia/french_geocoder_plugin
