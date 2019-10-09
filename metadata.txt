@@ -25,9 +25,9 @@ email=regis.haubourg@oslandia.com
 tags=geocoder, locator, filter, addok, France, french
 tags[fr]=geocodeur, recherche, adresse, France, ADDOK, Etalab, BAN, BANO
 
-tracker=https://github.com/Oslandia/french_geocoder_plugin/issues
-homepage=https://github.com/Oslandia/french_geocoder_plugin
-repository=tracker=https://github.com/Oslandia/french_geocoder_plugin
+tracker=https://github.com/Oslandia/french_locator_filter/issues
+homepage=https://github.com/Oslandia/french_locator_filter
+repository=https://github.com/Oslandia/french_locator_filter
 
 changelog=
     
