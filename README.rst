@@ -50,5 +50,5 @@ http://python.qgis.org/api/core/Locator/QgsLocator.html
 http://python.qgis.org/api/core/Locator/QgsLocatorFilter.html
 
 
-![Demo screencast](french_geocoder_demo.gif?raw=true "Gif screencast")
+.. image:: french_geocoder_demo.gif
 
