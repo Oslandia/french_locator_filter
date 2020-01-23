@@ -78,7 +78,11 @@ class locatorFilter(QgsLocatorFilter):
 
                     result = QgsLocatorResult()
                     result.filter = self
-                    result.displayString = '{} ({})'.format(loc['properties']['label'], loc['properties']['type'])
+                    label = loc['properties']['label']
+                    if loc['properties']['type'] == 'municipality':
+                        # add city code to label
+                        label += ' ' + loc['properties']['citycode']
+                    result.displayString = '{} ({})'.format(label, loc['properties']['type'])
                     #use the json full item as userData, so all info is in it:
                     result.userData = loc
                     self.resultFetched.emit(result)
