@@ -15,7 +15,7 @@ about=The French geo.api is an open Geocoder service provided by French Governme
 about[fr]=L'API du gouvernement français est un service de geocodage gratuit et ouvert base sur la base adresse nationale. Ce plugin ajoute un filtre de recherche sur ce service dans la barre de recherche universelle. 
 Financement par les services de la gendarmerie Nationale. Ce plugin est base sur le travail de Richard Duivenvoorde, merci Richard! En savoir plus sur ce plugin <a href="http://www.qgis.nl/2018/05/16/english-coding-a-qgslocator-plugin/?lang=en">http://www.qgis.nl/2018/05/16/english-coding-a-qgslocator-plugin</a>
 
-version=0.1
+version=0.2
 
 qgisMinimumVersion=3.0 
 author=Regis Haubourg - OSLANDIA, Richard Duivenvoorde, Zuidt
@@ -29,7 +29,7 @@ tracker=https://github.com/Oslandia/french_locator_filter/issues
 homepage=https://github.com/Oslandia/french_locator_filter
 repository=https://github.com/Oslandia/french_locator_filter
 
-changelog=
+changelog=0.2 adds insee code display to municipalities
     
 category=Filter
 
