@@ -10,8 +10,7 @@ Ce plugin est basé sur le code de l'extension Nominatim filter. Pour en savoir 
 http://www.qgis.nl/2018/05/16/english-coding-a-qgslocator-plugin/
 
 
-http://plugins.qgis.org/plugins/french_adress_filter
-
+https://plugins.qgis.org/plugins/french_locator_filter
 
 Utilisation:
 
